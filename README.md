@@ -14,4 +14,6 @@ To see some of my work, please take a look at the [code](https://github.com/avia
 
 
 
-_Please also see the [wiki](https://github.com/aviaga/Futuremakers/wiki) for a more detailed documentation of daily activities._
+_Please see the [wiki](https://github.com/aviaga/Futuremakers/wiki) for a more detailed documentation of daily activities._
+
+**NB**: I created new folders and moved many files to them to better organize this Repo during December 2021. As a result, several files may show that they were created at this time, even though I wrote the code and made the files during the program itself during the summer of 2021.
