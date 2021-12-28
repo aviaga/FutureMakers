@@ -1,6 +1,6 @@
 # SureStart MIT FutureMakers
 
-SureStart MIT FutureMakers is a 6 week program centered on the field of Artificial Intelligence (AI). The program is created and developed by [SureStart](https://mysurestart.com/) and the [MIT RAISE Initiative](https://raise.mit.edu/).
+The SureStart MIT FutureMakers summer program is a 6 week boot camp centered on the field of Artificial Intelligence (AI). The program is created and developed by [SureStart](https://mysurestart.com/) and the [MIT RAISE Initiative](https://raise.mit.edu/).
 
 The 2021 program began on July 6, 2021, and included the following:
 * Learning AI, Machine Learning, and Deep Learning concepts
@@ -17,3 +17,19 @@ To see some of my work, please take a look at the [code](https://github.com/avia
 _Please see the [wiki](https://github.com/aviaga/Futuremakers/wiki) for a more detailed documentation of daily activities._
 
 **NB**: I created new folders and moved many files to them to better organize this Repo during December 2021. As a result, several files may show that they were created at this time, even though I wrote the code and made the files during the program itself during the summer of 2021.
+
+## Primary Tools Used
+* **Software**  
+    * Google Colab
+    * Jupyter Notebook
+    * Python
+* **Libraries**
+    * Keras
+    * Matplotlib
+    * NumPy
+    * Pandas
+    * PyTorch
+    * Scikit-learn
+    * Seaborn
+    * TensorFlow
+
